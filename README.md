@@ -101,10 +101,15 @@ A **role-based content management platform** designed for real-world usage.
 
 ---
 
-### 🔹 Full-Stack Project — Gleve Event Manager
-- MERN stack application
-- Focus on data flow, APIs, and maintainability
-- Built to understand end-to-end system behavior
+### 🔹 Full-Stack Project — Gleve Event Manager  
+_Event Management System (MERN Stack)_
+
+- Designed with **clear separation between user and admin responsibilities**
+- Backend-centric architecture where **business rules, validation, and access control** are enforced server-side
+- Public users interact through **safe, filtered views** (event browsing, details, comments)
+- Admins operate via **restricted CRUD workflows** for event and system management
+- Includes **email notifications**, **scheduled background jobs**, and structured data models
+- Built to understand **end-to-end request flow**: UI → API → Database → Automation
 
 ---
 
