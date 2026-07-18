@@ -3,7 +3,7 @@
 I’m a **backend-focused full-stack developer** with a strong interest in **system design, automation, and enterprise-grade software**.  
 I enjoy building software where **data visibility is controlled**, **roles are respected**, and **systems scale without chaos**.
 
-I’m currently completing my B.Tech and will be joining **Equifax** as an **SDE**, working primarily with **Spring Boot, Angular, PostgreSQL**, and **AI-driven systems**.
+I’m completed my B.Tech and I am currently an **SDE** at **Equifax**, working primarily with **Spring Boot, Angular, PostgreSQL**, and **AI-driven systems**.
 
 ---
 
